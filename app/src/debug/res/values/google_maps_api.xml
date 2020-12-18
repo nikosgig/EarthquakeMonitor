@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C5:89:B4:CD:71:43:DA:40:CC:05:1F:A2:1A:E7:C6:59:C6:1F:31:85%3Bcom.steliosgig.earthquakemonitor
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.steliosgig.earthquakemonitor
+
+    SHA-1 certificate fingerprint:
+    C5:89:B4:CD:71:43:DA:40:CC:05:1F:A2:1A:E7:C6:59:C6:1F:31:85
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDCzt-GhEUAXlPsZ3kfFhU312tTQijW8F0</string>
+</resources>
